@@ -1,0 +1,11 @@
+{
+  "title": "test",
+  "description": "测试",
+  "courses": [
+    {
+      "course_id": "install-istio-using-istioctl",
+      "title": "安装 istio",
+      "description": "介绍使用 istioctl 安装 istio 的方法"
+    }
+  ]
+}
